@@ -1,0 +1,8 @@
+torch>=2.0.0
+numpy>=1.23.0
+scipy>=1.10.0
+onnx>=1.14.0
+onnxruntime>=1.15.0
+onnxscript>=0.1.0
+cma>=3.3.0
+git+https://github.com/moment-timeseries-foundation-model/moment.git
