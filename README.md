@@ -48,7 +48,3 @@ ob_ttl_project/
    ```bash
    python src/run_poc.py
    ```
-
-```
-
-```
